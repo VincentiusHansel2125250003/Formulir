@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Profil</title>
+</head>
+<body>
+ <h3>Profil</h3>
+ <hr color="red" size=5 width="25%" align="left">
+ NPM 			:2125250003<br>
+ Nama			:Vincentius Hansel Irsansaputra<br>
+ Alamat			:Jalan bambang utoyo<br>
+ Asal Sekolah 	:SMA Xaverius 3<br>
+ <hr width="25%" align="left">
+<p><font size ="3">(c) Hansel</font>
+</body>
+</html>
